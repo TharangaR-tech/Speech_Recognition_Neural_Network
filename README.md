@@ -1,4 +1,4 @@
-# DeadSimpleSpeechRecognizer
+# Simple Speech Recognizer using Convolutional Neural Network
 CNN based Minimal model for recognizing word
 Pre-Requisits - Python, Tensorflow,Keras, Librose installed.
 Install Anaconda and create a seperate conda environment for development.
